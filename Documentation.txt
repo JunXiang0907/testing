@@ -1,0 +1,15 @@
+Documentation
+
+Technologies used
+
+MySQL: Database usage
+Selenium: Web Scrapping
+Selenium Web-Driver: Automate web scrap process
+Fast API: develop API
+HuggingFace Chatbot: use pretrained model(TinyLlama/TinyLlama-1.1B-Chat-v1.0)
+FAISS: use to develop RAG system
+
+#UI
+HTML + Bootstrap + JavaScript
+Leaflet : generate interactive maps
+
